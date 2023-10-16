@@ -1,0 +1,19 @@
+This file contains a list of the elements needed for our game design. The list is ordered from features that are most essential to game design to features that can be implemented at the end of development if time permits.
+Overall Game Design Features:
+  1. Main Menu
+  2. Settings Menu
+  3. Player Design - The user will control a spaceship used to evade or destroy incoming asteroids/enemies.
+  4. Player Movement - The user will be able to control which way the spaceship faces. The user can only move in the direction that the ship is facing.
+  5. Player Projectile Firing - The user will be able to fire projectiles at asteroids/enemies.
+  6. Player Collision interactions - If the user collides with an enemy or asteroid, then the user's ship will be destroyed, ending the game.
+  7. Enemy Design - Enemy spaceships will spawn with the intent of destroying the player's ship.
+  8. Enemy Movement - Enemy Spaceships will be able to move around the map in the same manner as the player's ship.
+  9. Enemy Projectile Firing - Enemy spaceships will shoot projectiles at the user's ship.
+  10. Enemy Collision Handling - If an enemy spaceship collides with the user's ship, both will be destroyed, ending the game
+  11. Asteroid Designs/Collision Handling - Asteroids that are all shaped differently will spawn and maneuver around the map randomly. If it collides with the user's ship, the user's ship will be destroyed
+  12. Asteroid Splitting - When an asteroid is shot at, it will split into smaller asteroids that can still destroy the user's ship.
+  13. Enemy Difficulty Scaling - The user will be able to adjust the enemies' difficulty before starting the game. The enemy difficulty scaling determines how many enemies spawn at a time, how many projectiles they shoot at a time, how many projectiles they take to destroy, etc.
+  14. Asteroid Difficulty Scaling - The asteroid difficulty scaling determines how many asteroids spawn at a time, and how fast they travel around the map.
+  15. Player/Enemy/Asteroid Artwork
+  16. Player/Enemy/Asteroid Sound Effects
+  17. Player Powerups - The user will be able to pick up different powerups that spawn around the map by moving over them. These powerups will provide various boosts to the user's ship such as multifiring, increased resistance to enemy projectiles, etc.
